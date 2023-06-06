@@ -1,0 +1,5 @@
+no cadastro de usuario tem que tem os campos ;
+nome:
+email: 
+senha:
+cpf:
